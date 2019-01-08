@@ -2,7 +2,7 @@
 
 all edges 15
 
-position[1,1]
+position [1,1]
 
 [6, 8, 1]
 
